@@ -26,7 +26,8 @@ The dashboard transforms raw IPL batting data into clear, interactive, and insig
 This project demonstrates **real-world data analytics skills**, including data cleaning, modeling, and storytelling through dashboards—ideal for **Data Analyst / Business Analyst portfolios**.
 
 ## 📷 Dashboard Preview
-![Dashboard](ViratKohliDashboard.png
+<img width="1316" height="733" alt="ViratKohliDashboard" src="https://github.com/user-attachments/assets/4bf1d96b-161e-41be-bdfd-4801f1a5726f" />
+
 
 ---
 
